@@ -20,7 +20,7 @@
      --very-light-gray: hsl(0, 0%, 95%);
  }
  
- .main {
+ main {
      width: 94%;
      margin: 0 auto;
  }
@@ -124,7 +124,7 @@
  }
  
  @media (min-width:600px) {
-     .main {
+     main {
          width: 55%;
          height: 100vh;
          display: flex;
@@ -156,7 +156,7 @@
  }
  
  @media (min-width:600px) and (max-width:1167px) {
-     .main {
+     main {
          width: 90%;
      }
  }
